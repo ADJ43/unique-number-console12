@@ -1,0 +1,7 @@
+C:\Users\adjse\source\repos\Unique-number-Console12\Unique-number-Console12\bin\Debug\Unique-number-Console12.exe.config
+C:\Users\adjse\source\repos\Unique-number-Console12\Unique-number-Console12\bin\Debug\Unique-number-Console12.exe
+C:\Users\adjse\source\repos\Unique-number-Console12\Unique-number-Console12\bin\Debug\Unique-number-Console12.pdb
+C:\Users\adjse\source\repos\Unique-number-Console12\Unique-number-Console12\obj\Debug\Unique-number-Console12.csproj.AssemblyReference.cache
+C:\Users\adjse\source\repos\Unique-number-Console12\Unique-number-Console12\obj\Debug\Unique-number-Console12.csproj.CoreCompileInputs.cache
+C:\Users\adjse\source\repos\Unique-number-Console12\Unique-number-Console12\obj\Debug\Unique-number-Console12.exe
+C:\Users\adjse\source\repos\Unique-number-Console12\Unique-number-Console12\obj\Debug\Unique-number-Console12.pdb
